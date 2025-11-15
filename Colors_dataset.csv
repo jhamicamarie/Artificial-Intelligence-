@@ -1,0 +1,15 @@
+name,R,G,B,label
+red,255,0,0,warm
+blue,0,0,255,cool
+yellow,255,255,0,warm
+
+orange,255,165,0,warm
+green,0,128,0,cool
+purple,128,0,128,cool
+
+red-orange,255,83,73,warm
+yellow-orange,255,174,66,warm
+yellow-green,154,205,50,cool
+blue-green,13,152,186,cool
+blue-purple,138,43,226,cool
+red-purple,219,0,115,warm

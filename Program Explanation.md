@@ -30,5 +30,16 @@ The `colors_dataset.csv` file includes the following fields:
 - `R`, `G`, `B` – RGB values of the color  
 - `label` – target classification (warm or cool)
 
-Example entries:
-
+Available colors:
+- red
+- blue
+- yellow
+- orange
+- green
+- purple
+- red-orange
+- yellow-orange
+- yellow-green
+- blue-green
+- blue-purple
+- red-purple
